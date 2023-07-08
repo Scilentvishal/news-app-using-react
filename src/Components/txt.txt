@@ -1,0 +1,9 @@
+<Route path="/business" element={<News pageSize={8} country="in" category="sports"/>} />
+<Route path="/entertainment" element={<News pageSize={8} country="in" category="sports"/>} />
+<Route path="/general" element={<News pageSize={8} country="in" category="sports"/>} />
+<Route path="/health" element={<News pageSize={8} country="in" category="sports"/>} />
+<Route path="/science" element={<News pageSize={8} country="in" category="sports"/>} />
+<Route path="/sports" element={<News pageSize={8} country="in" category="sports"/>} />
+<Route path="/technology" element={<News pageSize={8} country="in" category="sports"/>} />
+fraudapi:-a53cc05be3694269abe9e97f36ba95ec
+my api:-e69f76bc8e5943af9547eb0b4dac864a
